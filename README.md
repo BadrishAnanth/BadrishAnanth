@@ -20,7 +20,6 @@ Hello, my name is Badrish Ananth and I am a incoming freshman at UCI majoring in
 - 💬 Collaborate with me over tech, algorithms, career, and music 
 - 📫 How to reach me: badrishananth@gmail.com
 - 😄 Pronouns: He/Him
-- 📝 [Resume]()
 
 **Languages and Tools:** 
 
