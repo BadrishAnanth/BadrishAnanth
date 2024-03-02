@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Badrish Ananth and I am a incoming freshman at UCI majoring in Computer Science. I am a full-stack software developer. Besides programming, I have an immense interest in music.
+Hello, my name is Badrish Ananth and I am a incoming freshman at UCI majoring in Computer Science. I am a backend developer with an interests in Machine Learning. Some models that I have worked with are yolo, maskRCNN. 
 
-- 🔭 I’m currently interested in artificial intelligence and machine learning
-- 💬 Collaborate with me over tech, algorithms, career, and music 
-- 📫 How to reach me: badrishananth@gmail.com
-- 😄 Pronouns: He/Him
+- How to reach me: badrishananth@gmail.com
+- Pronouns: He/Him
 
 **Languages and Tools:** 
 
