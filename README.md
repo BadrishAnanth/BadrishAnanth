@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Badrish Ananth and I am a incoming freshman at UCI majoring in Computer Science. I am a backend developer with an interest in Machine Learning. Some models that I have worked with are Yolo and Masked-RCNN. 
+Hello, my name is Badrish Ananth and I am a junior at UCI majoring in Computer Science. I am a backend developer with an interest in Machine Learning. Some models that I have worked with are Yolo and Masked-RCNN. 
 
-- How to reach me: badrishananth@gmail.com
+- How to reach me: badrish2023@gmail.com
 - Pronouns: He/Him
 
 **Languages and Tools:** 
